@@ -8,4 +8,4 @@ Below are some projects I worked on in the computer science courses I took as an
 
 ### Topic 2
 
-Code
+- Code
