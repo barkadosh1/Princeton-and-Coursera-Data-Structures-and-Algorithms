@@ -5,7 +5,9 @@ Below are some projects I worked on in the computer science courses I took as an
 ### Graph Implementations
 
 - Graph.java
+
 - GraphAdjList.java
+
 - GraphAdjMatrix.java
 
 ### Shortest Path Using Breadth First Search, Dijkstra's Algorithm, and A-star Search
