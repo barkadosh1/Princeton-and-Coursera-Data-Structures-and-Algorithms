@@ -13,3 +13,17 @@ Below are some projects I worked on in the computer science courses I took as an
 - MapGraph.java
 - MapEdge.java
 - MapNode.java
+
+### Linked List Implementation 
+
+- MyLinkedList.java
+
+### Document Assignment (Figure out Right Title)
+
+- Document.java
+- BasicDocument.java
+- EfficientDocument.java
+- DictionaryLL.java
+- DictionaryBST.java
+- AutocompleteDictionaryTrie.java
+- NearbyWords.java
