@@ -1,4 +1,4 @@
-// MapEdge is my impementation entirely 
+// MapEdge is my implementation entirely 
 
 package roadgraph;
 import geography.GeographicPoint;
